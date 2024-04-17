@@ -42,6 +42,9 @@ ament_python_install_package(${PROJECT_NAME})
 # Install Python executables
 install(PROGRAMS
   scripts/lab1_node.py
+  lab1_pkg/my_first_node.py
+  lab1_pkg/talker.py
+  lab1_pkg/relay.py
   DESTINATION lib/${PROJECT_NAME}
 )
 

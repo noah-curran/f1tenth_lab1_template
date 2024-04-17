@@ -1,3 +1,11 @@
-#!/usr/bin/env python3
-from lab1_pkg.module_to_import import TEST_VAR
-print(TEST_VAR)
+import rclpy
+from rclpy.node import Node
+
+def main(args=None):
+    rclpy.init(args=args)
+    node = Node('my_node_name')
+    rclpy.spin(node)
+    rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
