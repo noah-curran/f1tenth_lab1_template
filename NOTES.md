@@ -12,3 +12,9 @@ Here is some information for formatting the package.xml file, including the diff
 Here is some information for understanding ROS2 topics: [link](https://docs.ros.org/en/foxy/Tutorials/Beginner-CLI-Tools/Understanding-ROS2-Topics/Understanding-ROS2-Topics.html#ros2-topic-list)
 
 A nice playlist for learning how to program in ROS: [link](https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy)
+
+Here is some information for starting a launch file: [link](https://roboticsbackend.com/ros2-launch-file-example/)
+
+Here is some information for publishing topics from a launch file: [link](https://answers.ros.org/question/386216/ros2-topic-pub-from-launch-file/)
+
+Here is some information about node parameters: [link](https://docs.ros.org/en/rolling/Concepts/Basic/About-Parameters.html)
