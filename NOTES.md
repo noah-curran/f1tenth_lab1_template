@@ -18,3 +18,5 @@ Here is some information for starting a launch file: [link](https://roboticsback
 Here is some information for publishing topics from a launch file: [link](https://answers.ros.org/question/386216/ros2-topic-pub-from-launch-file/)
 
 Here is some information about node parameters: [link](https://docs.ros.org/en/rolling/Concepts/Basic/About-Parameters.html)
+
+Here is some information for working with .devcontainer: [link](https://www.allisonthackston.com/articles/vscode-docker-ros2.html)
